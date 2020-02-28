@@ -3,11 +3,24 @@
 
 == Preprints
 
-- *Xiao Xu*, Qing Zhao, "Memory-Constrained No-Regret Learning in Adversarial Bandits", submitted, Feb. 2020.
+- *Xiao Xu*, Qing Zhao, "Memory-Constrained No-Regret Learning in Adversarial Bandits", submitted, Feb. 2020. ([https://arxiv.org/abs/2002.11804 arXiv])
 
 == Journal Publications
 
 - *Xiao Xu*, Qing Zhao, "Distributed No-Regret Learning in Multi-Agent Systems", to appear in /IEEE Signal Processing Magazine, Special Issue on Distributed  and Stream Machine Learning/, 2020. ([https://arxiv.org/abs/2002.09047 arXiv])
 
-- *Xiao Xu*, Sattar Vakili, Qing Zhao, Ananthram Swami, "Multi-Armed Bandits on Partially Revealed Unit Interval Graphs", /IEEE Transactions on Network Science and Engineering/, 2019. ([https://arxiv.org/abs/1802.04339 arXiv])
+- *Xiao Xu*, Sattar Vakili, Qing Zhao, Ananthram Swami, "Multi-Armed Bandits on Partially Revealed Unit Interval Graphs", /IEEE Transactions on Network Science and Engineering/, 2019. ([https://arxiv.org/abs/1802.04339 arXiv]) ([https://ieeexplore.ieee.org/abstract/document/8798887/ IEEE Xplore])
+
 == Conference Proceedings
+
+- *Xiao Xu*, Fang Dong, Yanghua Li, Shaojian He, Xin Li, "Contextual-Bandit Based Personalized Recommendation with Time-Varying User Interests", /the 34th AAAI Conference on Artificial Intelligence/, 2020 (acceptance rate: 20.6%).
+
+- *Xiao Xu*, Qing Zhao, Ananthram Swami, "Learning Ordinal Information under Bipartite Stochastic Block Models", /the 37th IEEE Military Communication Conference (MILCOM)/,  October, 2018. ([https://ieeexplore.ieee.org/abstract/document/8599804 IEEE Xplore])
+
+- *Xiao Xu*, Qing Zhao, Ananthram Swami, "Learning from Dissimilarity", /the 52nd Asilomar Conference on Signals, Systems and Computers/, 2018. ([https://ieeexplore.ieee.org/abstract/document/8645546 IEEE Xplore])
+
+- *Xiao Xu*, Sattar Vakili, Qing Zhao, Ananthram Swami, "Online Learning with Side Information", /the 36th IEEE Military Communication Conference (MILCOM)/, October, 2017. ([http://ieeexplore.ieee.org/document/8170860/ IEEE Xplore])
+
+- Zhengteng Zhu, *Xiao Xu*, Xi Zheng, Yuxuan Sun, Sheng Zhou, Jie Gong, Zhisheng Niu, "A simulation study of hyper-cellular architecture with dynamic temporal and spatial traffic", /the 21st IEEE Asia-Pacific Conference on Communications (APCC)/, 2015. ([https://ieeexplore.ieee.org/abstract/document/7412496 IEEE Xplore])
+
+- *Xiao Xu*, Xiongbin Rao, Vincent Lau, "Active user detection and channel estimation in uplink CRAN systems", /IEEE International Conference on Communications (ICC)/, 2015. ([https://ieeexplore.ieee.org/abstract/document/7248738 IEEE Xplore])
